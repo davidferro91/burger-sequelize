@@ -10,7 +10,7 @@ https://github.com/davidferro91/burger-sequelize
 
 Welcome!  I hope you've brought a big appetite, because today we will eat da burger ... with Sequelize!
 
-![Screenshot of page for Eat Da Burger](./public/images/screenshot.png)
+![Screenshot of page for Eat Da Burger](./public/assets/images/screenshot.png)
 
 This is an app where you and your friends can add the burger of their dreams to the menu... and then eat it!  All you have to do is type in the type of burger you would like, or peruse the menu for one that already sounds tasty, then click the 'Eat Me' button!  It will move over to the list of those delicious morsels that have already been consumed.
 
